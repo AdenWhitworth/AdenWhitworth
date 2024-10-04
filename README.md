@@ -9,6 +9,8 @@ Hi, I’m Aden! I specialize in building innovative solutions across the softwar
 - 💻 Strong focus on building scalable, maintainable codebases, with expertise in unit testing, integration testing, and continuous deployment pipelines.- 
 - 📚 Passionate about learning, solving new problems, and sharing knowledge through clean, well-documented code.
 
+🌍 **Check out my portfolio:** [Aden Whitworth Portfolio](https://aden-whitworth-portfolio.web.app/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aden-whitworth/) 
 
